@@ -8,3 +8,4 @@ While building it you're going to learn many advanced React & JavaScript topics,
 
 ![Screenshot 2](https://user-images.githubusercontent.com/68656122/150278212-636e9964-5a44-4365-a00f-b32117283c35.png)
 
+![Screenshot 3](https://user-images.githubusercontent.com/68656122/150494770-0e114536-234c-4e7c-8788-57ed52698496.png)
